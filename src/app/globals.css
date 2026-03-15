@@ -1,0 +1,57 @@
+@import "tailwindcss";
+
+/* Dark mode via .dark class (next-themes) */
+@custom-variant dark (&:is(.dark, .dark *));
+
+/* Color tokens */
+:root {
+  --bg: #f5f2ed;
+  --surface: #e8e4dc;
+  --border: #c8c4bc;
+  --text: #1a2535;
+  --text-muted: #6b7280;
+  --accent: #2563eb;
+}
+
+.dark {
+  --bg: #0f1923;
+  --surface: #1a2535;
+  --border: #2d3d50;
+  --text: #e8e4dc;
+  --text-muted: #9ca3af;
+  --accent: #60a5fa;
+}
+
+/* Map tokens to Tailwind theme */
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-border: var(--border);
+  --color-text: var(--text);
+  --color-muted: var(--text-muted);
+  --color-accent: var(--accent);
+}
+
+* {
+  border-color: var(--border);
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Blinking cursor animation */
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+.cursor-blink {
+  animation: blink 1.2s step-start infinite;
+}
