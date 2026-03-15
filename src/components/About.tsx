@@ -40,7 +40,7 @@ export default function About() {
               experiments.
             </p>
             <p>
-              Outside of work I love powerlifting and running, read books, and obsess over baseball.
+              Outside of work, I spend my time powerlifting, running, reading, and obsessing over baseball.
             </p>
 
             <div className="flex flex-wrap gap-2 pt-2">

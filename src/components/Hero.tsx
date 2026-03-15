@@ -10,12 +10,10 @@ export default function Hero() {
           <span className="cursor-blink text-accent">_</span>
         </h1>
         <p className="text-xl sm:text-2xl text-muted mt-4 mb-6">
-          Math-CS &middot; Data Science
+          Math-CS &middot; Data Science &middot; ML
         </p>
         <p className="text-base sm:text-lg text-muted max-w-xl leading-relaxed">
-          UCSD Math-CS grad based in Boston. I build things at the intersection
-          of math, data, and code — and I&apos;m figuring out what to do with
-          that next.
+          UCSD Math-CS grad interested in machine learning, optimization, and leveraging AI to build useful tools to address societal issues.
         </p>
         <div className="flex gap-4 mt-10">
           <a
