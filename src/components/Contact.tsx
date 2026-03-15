@@ -10,7 +10,7 @@ const LINKS = [
   {
     icon: Linkedin,
     label: "LinkedIn",
-    href: "https://linkedin.com/in/calebgaldston",
+    href: "https://www.linkedin.com/in/caleb-galdston/",
     display: "calebgaldston",
   },
   {
