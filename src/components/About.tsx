@@ -26,20 +26,22 @@ export default function About() {
           {/* Bio */}
           <div className="space-y-4 text-muted leading-relaxed">
             <p>
-              I&apos;m a recent graduate from UC San Diego with a B.S. in
-              Mathematics–Computer Science. My work spans machine learning,
-              statistical modeling, and data engineering—wherever interesting
-              problems meet large-scale data.
+              I&apos;m a recent UCSD graduate with a B.S. in
+              Mathematics–Computer Science and a minor in Data Science, now
+              based in Boston. I&apos;m actively looking for data science roles
+              where I can work on hard problems with real-world impact.
             </p>
             <p>
-              I&apos;ve applied deep learning to climate science, built
-              reinforcement learning agents for sports analytics, and generated
-              symbolic music with transformer models. I care about clean code,
-              reproducible experiments, and making complex results legible.
+              My projects span a wide range: applying deep learning to climate
+              model emulation, training RL agents for volleyball and baseball
+              analytics, detecting gravitational wave anomalies, and generating
+              symbolic music with transformers. I&apos;m most comfortable in
+              Python and PyTorch, and I care about reproducible, well-documented
+              experiments.
             </p>
             <p>
-              Outside of work I watch too much film, play volleyball, and
-              maintain strong opinions about coffee.
+              Outside of work I play volleyball, watch a lot of film, and follow
+              baseball more closely than is probably healthy.
             </p>
 
             <div className="flex flex-wrap gap-2 pt-2">

@@ -13,8 +13,9 @@ export default function Hero() {
           Math-CS &middot; Data Science
         </p>
         <p className="text-base sm:text-lg text-muted max-w-xl leading-relaxed">
-          Building models that learn patterns in climate, music, sports, and
-          beyond. UCSD graduate turned data scientist.
+          UCSD Math-CS grad based in Boston. I build machine learning systems
+          for climate, physics, music, and sports — and I&apos;m looking for my
+          next role in data science.
         </p>
         <div className="flex gap-4 mt-10">
           <a
