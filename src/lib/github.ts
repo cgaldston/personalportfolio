@@ -7,7 +7,7 @@ const FEATURED_REPOS = [
   "Unconditional-Symbolic-Music-Generation",
   "Vermont-Business-Recommender-System",
   "goodreads_reccomendation",
-  "Gravitational-Wave-Anomaly-Detection",
+  "MLB-pitch-sequencing",
 ];
 
 const headers: HeadersInit = {
