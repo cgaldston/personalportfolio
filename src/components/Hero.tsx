@@ -13,9 +13,9 @@ export default function Hero() {
           Math-CS &middot; Data Science
         </p>
         <p className="text-base sm:text-lg text-muted max-w-xl leading-relaxed">
-          UCSD Math-CS grad based in Boston. I build machine learning systems
-          for climate, physics, music, and sports — and I&apos;m looking for my
-          next role in data science.
+          UCSD Math-CS grad based in Boston. I build things at the intersection
+          of math, data, and code — and I&apos;m figuring out what to do with
+          that next.
         </p>
         <div className="flex gap-4 mt-10">
           <a

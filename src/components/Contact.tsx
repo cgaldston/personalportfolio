@@ -30,7 +30,7 @@ export default function Contact() {
         </h2>
 
         <p className="text-muted text-base mb-10 max-w-lg leading-relaxed">
-          Open to data science roles and interesting problems. Reach out
+          Open to interesting problems and new opportunities. Reach out
           anytime.
         </p>
 

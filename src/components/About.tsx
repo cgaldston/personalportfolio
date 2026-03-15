@@ -28,8 +28,9 @@ export default function About() {
             <p>
               I&apos;m a recent UCSD graduate with a B.S. in
               Mathematics–Computer Science and a minor in Data Science, now
-              based in Boston. I&apos;m actively looking for data science roles
-              where I can work on hard problems with real-world impact.
+              based in Boston. I&apos;m looking for roles where I can work on
+              hard problems — I&apos;m drawn to the space where math, data, and
+              software overlap.
             </p>
             <p>
               My projects span a wide range: applying deep learning to climate
