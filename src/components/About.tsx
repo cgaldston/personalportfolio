@@ -30,19 +30,17 @@ export default function About() {
               Mathematics–Computer Science and a minor in Data Science, now
               based in Boston. I&apos;m looking for roles where I can work on
               hard problems — I&apos;m drawn to the space where math, data, and
-              software overlap.
+              software intersect.
             </p>
             <p>
               My projects span a wide range: applying deep learning to climate
-              model emulation, training RL agents for volleyball and baseball
-              analytics, detecting gravitational wave anomalies, and generating
+              model emulation, building recommendation systems, training RL agents in gym environments, and generating
               symbolic music with transformers. I&apos;m most comfortable in
               Python and PyTorch, and I care about reproducible, well-documented
               experiments.
             </p>
             <p>
-              Outside of work I play volleyball, watch a lot of film, and follow
-              baseball more closely than is probably healthy.
+              Outside of work I love powerlifting and running, read books, and obsess over baseball.
             </p>
 
             <div className="flex flex-wrap gap-2 pt-2">
