@@ -26,30 +26,41 @@ export default function About() {
           {/* Bio */}
           <div className="space-y-4 text-muted leading-relaxed">
             <p>
-              I&apos;m a recent UCSD graduate with a B.S. in
-              Mathematics–Computer Science and a minor in Data Science, now
-              based in Boston. I&apos;m looking for roles where I can work on
-              hard problems — I&apos;m drawn to the space where math, data, and
-              software intersect.
+              I&apos;m an M.S. student in Electrical and Computer Engineering
+              at UC Santa Barbara, focusing on communications, control, and
+              signal processing. Before that, I earned a B.S. in
+              Mathematics-Computer Science with a minor in Data Science from
+              UC San Diego. My interests center on optimization, control
+              systems, and signal processing.
+            </p>
+            <p>
+              Alongside grad school, I work remotely as a District Data
+              Specialist for Fitchburg Public Schools in Massachusetts, where I
+              build automated Java and SQL data pipelines, certify state
+              reporting for a 5,500-student district, and built an enrollment
+              projection model used for capacity planning.
             </p>
             <p>
               My projects span a wide range: applying deep learning to climate
-              model emulation, building recommendation systems, training RL agents in gym environments, and generating
-              symbolic music with transformers. I&apos;m most comfortable in
-              Python and PyTorch, and I care about reproducible, well-documented
-              experiments.
+              model emulation, building recommendation systems, training RL
+              agents in gym environments, and generating symbolic music with
+              transformers. I&apos;m currently looking for internships and
+              roles in systems engineering, controls, and optimization.
             </p>
             <p>
-              Outside of work, I spend my time powerlifting, running, reading, and obsessing over baseball.
+              Outside of work, I spend my time powerlifting, running, reading,
+              and watching the Sox.
             </p>
 
             <div className="flex flex-wrap gap-2 pt-2">
               {[
                 "Python",
                 "PyTorch",
-                "scikit-learn",
+                "MATLAB",
+                "Simulink",
+                "C/C++",
+                "Java",
                 "SQL",
-                "R",
                 "Next.js",
                 "TypeScript",
               ].map((skill) => (
