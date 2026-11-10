@@ -26,12 +26,10 @@ export default function About() {
           {/* Bio */}
           <div className="space-y-4 text-muted leading-relaxed">
             <p>
-              I&apos;m an M.S. student in Electrical and Computer Engineering
-              at UC Santa Barbara, focusing on communications, control, and
-              signal processing. Before that, I earned a B.S. in
-              Mathematics-Computer Science with a minor in Data Science from
-              UC San Diego. My interests center on optimization, control
-              systems, and signal processing.
+              I&apos;m an M.S. student in Electrical and Computer Engineering at UC Santa
+              Barbara, with an emphasis in Control, Communications, and Signal Processing. Before
+              that, I earned a B.S. in Mathematics-Computer Science with a minor in Data
+              Science from UC San Diego.
             </p>
             <p>
               Alongside grad school, I work remotely as a District Data
@@ -44,8 +42,7 @@ export default function About() {
               My projects span a wide range: applying deep learning to climate
               model emulation, building recommendation systems, training RL
               agents in gym environments, and generating symbolic music with
-              transformers. I&apos;m currently looking for internships and
-              roles in systems engineering, controls, and optimization.
+              transformers.
             </p>
             <p>
               Outside of work, I spend my time powerlifting, running, skiing, reading,

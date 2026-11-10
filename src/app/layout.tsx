@@ -12,11 +12,16 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: "Caleb Galdston",
   description:
-    "Personal portfolio of Caleb Galdston — Math-CS, Data Science, UCSD.",
+    "Portfolio of Caleb Galdston, ECE M.S. student at UCSB studying controls and optimization.",
   openGraph: {
     title: "Caleb Galdston",
-    description: "Math-CS · Data Science",
+    description: "ECE @ UCSB · Controls · Optimization · ML",
     type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title: "Caleb Galdston",
+    description: "ECE @ UCSB · Controls · Optimization · ML",
   },
 };
 
