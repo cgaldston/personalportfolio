@@ -13,10 +13,9 @@ export default function Hero() {
           ECE @ UCSB &middot; Controls &middot; Optimization &middot; ML
         </p>
         <p className="text-base sm:text-lg text-muted max-w-xl leading-relaxed">
-          M.S. student in Electrical and Computer Engineering at UC Santa
-          Barbara, working at the intersection of optimization, control
-          systems, and machine learning to build systems that hold up in the
-          real world.
+          Grad student at UCSB studying controls and optimization. Before that, math
+          and CS at UCSD. Currently looking for internships in systems engineering,
+          controls, and ML.
         </p>
         <div className="flex gap-4 mt-10">
           <a
