@@ -48,8 +48,8 @@ export default function About() {
               roles in systems engineering, controls, and optimization.
             </p>
             <p>
-              Outside of work, I spend my time powerlifting, running, reading,
-              and watching the Sox.
+              Outside of work, I spend my time powerlifting, running, skiing, reading,
+              and obsessively following the Red Sox.
             </p>
 
             <div className="flex flex-wrap gap-2 pt-2">
